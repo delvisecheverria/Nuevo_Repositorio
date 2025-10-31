@@ -1,1 +1,1 @@
-print("prueba de usuario 1")
+print("usuario 1")
